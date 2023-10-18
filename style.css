@@ -1,0 +1,15 @@
+.menu li {
+    display: inline-block;
+    background: rgb(235, 227, 227);
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.banner {
+ margin-top: 25px;
+}
+
+.menu {
+    text-align: right;
+}
